@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Deven's Github 👋</h1>
 
 <p align="center">
-  I am a Full-stack developer with expertise in Node.js, React, and PostgresSQL💻. Passionate about building scalable, responsive, and user-friendly web applications ❤️‍🔥. With an eye for detail and a commitment to clean and efficient code 😁, I strive to create elegant solutions to complex problems🔑. Let's collaborate to turn your ideas into reality! 😉
+  I am a Full-stack developer with expertise in Node.js, React, and PostgresSQL💻. Passionate ❤️‍🔥 about building scalable, responsive, and user-friendly web applications. With an eye for detail and a commitment to clean and efficient code 😁, I strive to create elegant solutions to complex problems 🔑. Let's collaborate to turn your ideas into reality! 😉
 </p>
 
 <br />
