@@ -13,7 +13,7 @@
 
 
 <h2 align="center">
-  It all started with
+  It All Started With
 </h2>
 
 ```
@@ -62,7 +62,7 @@
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </p>
   
-<h2 align="center">Although I mainly Work With</h2>
+<h2 align="center">Although I Mainly Work With</h2>
 
 <p align="center">
 <img align="center" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devenEden&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
